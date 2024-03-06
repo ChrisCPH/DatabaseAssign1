@@ -6,7 +6,7 @@ Jeg har valgt at lave en database med 6 tabeller Country, City, Population, Redu
 
 Databasediagrammet kan findes som pdf eller word fil.
 
-De 10 spørgsmål hvor deres queries kan under mappen Queries -> Questions
+De 10 spørgsmål hvor deres queries kan findes under mappen Queries -> Questions
 1.	Hvad er en bys samlede emissioner i et givet år?
 2.	Hvad er en bys reduction target i et givet år?
 3.	Har de en assessment plan?
